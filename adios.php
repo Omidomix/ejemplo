@@ -1,3 +1,3 @@
 <?php  
-echo "Adios";
+echo "hola mi rama es solecito";
 ?>
